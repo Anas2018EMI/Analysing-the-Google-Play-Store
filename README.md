@@ -1,5 +1,7 @@
 # Analysing-the-Google-Play-Store
-In this project, we will compare thousands of apps in the Google Play Store so that we can gain insight into:
+
+
+## In this project, we will compare thousands of apps in the Google Play Store so that we can gain insight into:
 
 How competitive different app categories (e.g., Games, Lifestyle, Weather) are
 
@@ -15,7 +17,7 @@ How many paid apps will recoup their development costs based on their sales reve
 
 
 
-Today you'll learn:
+## We will discover:
 
 How to quickly remove duplicates
 
